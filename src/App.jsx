@@ -3,7 +3,7 @@ import { useState } from "react";
 import "./App.css";
 import data from "./data";
 // eslint-disable-next-line no-unused-vars
-import Categories from "./components/categories";
+import Categories from "./components/Categories";
 // eslint-disable-next-line no-unused-vars
 import Menu from "./components/Menu";
 import "./index.css";
